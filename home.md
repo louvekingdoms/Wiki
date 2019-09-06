@@ -5,4 +5,4 @@
 
 ![Aaaa](/uploads/aaaa.jpg "Aaaa")
 
-[Link Text](/PersonalNotes)
+[Link Text](/personal-noes)
