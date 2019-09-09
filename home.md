@@ -1,3 +1,5 @@
+
+
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
@@ -6,3 +8,9 @@
 ![Aaaa](/uploads/aaaa.jpg "Aaaa")
 
 [Link Text](/personal-noes)
+
+|   |   |          |   |   |
+|---|---|----------|---|---|
+|   | s | sd f efw |   |   |
+|   |   | wdwq d   |   |   |
+|   |   |          |   |   |
