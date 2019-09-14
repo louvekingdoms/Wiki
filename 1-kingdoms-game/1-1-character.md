@@ -11,7 +11,7 @@ A character is defined by:
 * [Traits](1-kingdoms-game/1-1-character/1-1-3-traits)
 * Other details like age, health, and time since crowned
 # Age
-The ruler ages with time. Few kingdoms have a ruler less than 18 or 20 years old, as it takes time to build shoulders solid enough to carry such responsibility.
+The ruler ages with time. Few realms have a ruler less than 18 or 20 years old, as it takes time to build shoulders solid enough to carry such responsibility.
 As the age increases, the health decreases.
 # Health
 ## Description
