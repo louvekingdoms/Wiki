@@ -1,4 +1,6 @@
-<!-- TITLE: Sub Page 1 -->
-<!-- SUBTITLE: A quick summary of Sub Page 1 -->
+<!-- TITLE: Ruler -->
+<!-- SUBTITLE: Rulers are the characters in control of kingdoms -->
 
-# Header
+# Description
+Rulers are the main actors of the game. 
+Each ruler is in control of a kingdom - when the kingdom disappears, the ruler disappears aswell and the controlling player is eliminated.
