@@ -13,12 +13,12 @@ All characters in the game have characteristics. Depending on the kind and type,
 | Charisma     | Useful to befriend travelers and keep popularity  | 
 | Luck     | A random chance that things go better than they should. Make very arrogant.  | 
 | Wisdom     | A costy characteristic that counteracts Arrogance.   | 
-| Arrogance     |   A negative characteristic that cannot be increased manually.   | 
+| Arrogance     |   A non-modifable that cannot be increased manually.   |  
+| Prestige     |   A non-modifable characteristic that gives bonuses to social interactions.   | 
 
 ### Range
-Unless specified otherwise, all characteristics are represented by an **integer value ranging from 1 to 10 [inclusive]**
+Unless specified otherwise, all characteristics are represented by an **integer value ranging from 1 to 10 [inclusive]**.
 A lower characteristic represents a weak point, while a higher characteristic represents a higher skill in that domain.
-
 ## Command
 ## Martial
 ## Diplomacy
@@ -30,3 +30,5 @@ A lower characteristic represents a weak point, while a higher characteristic re
 ### Range
 Arrogance ranges between **0 to 10 [inclusive]**.
 Each arrogance point the character negatively impacts any of their characteristic tests by half a point. 
+## Prestige
+Prestige is increased by modifiers, obtained when the character takes down threats or pairs with other characters of high prestige.
