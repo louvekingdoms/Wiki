@@ -1,4 +1,4 @@
-<!-- TITLE: 1 Kingdoms Game -->
+<!-- TITLE: 1. Kingdoms Game -->
 <!-- SUBTITLE: A quick summary of Kingdoms -->
 
 # Genre
