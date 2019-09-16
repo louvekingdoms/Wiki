@@ -11,10 +11,17 @@
 ### dfrg
 * ujfujkfukyuk 
 
->danger qwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+::: info
+danger qwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+:::
 
-> daltle 
+::: warning
+daltle 
+:::
 
+::: danger
+;lklhjkhjkklgl
+:::
 
 
 1. tdf
