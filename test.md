@@ -3,7 +3,7 @@
 
 # Header
 
-::: warning
+:::
 *here be dragons*
 :::
 # jkuikuty
