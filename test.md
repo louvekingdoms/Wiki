@@ -3,7 +3,7 @@
 
 # Header
 
-::: alert
+::: note
 *here be dragons*
 :::
 # jkuikuty
