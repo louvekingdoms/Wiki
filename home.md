@@ -4,15 +4,12 @@
 
 
 
-<a href="aaaa">hello</a>
-
-<img src="http://placekitten.com/200/300">
 
 
 
 
+# [KINGDOMS HOME PAGE](1-kingdoms-game)
 
-[aaaa](http://)
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
