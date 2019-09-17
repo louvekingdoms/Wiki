@@ -22,7 +22,6 @@ A lower characteristic represents a weak point, while a higher characteristic re
 ## Command
 Command helps tip the balance in favour of the ruler’s army in battles. 
 ## Personal Combat Skill
-| -------- | -------- |
 | Technical name     | `martial`     | 
 | -------- | -------- |
 How much the ruler is trained to one-on-one combat. Good PCS increases the chances of winning a duel.
