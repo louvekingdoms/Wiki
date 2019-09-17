@@ -1,5 +1,5 @@
-<!-- TITLE: 1.2 Race -->
-<!-- SUBTITLE: A quick summary of 1 2 Race -->
+<!-- TITLE: Race -->
+<!-- SUBTITLE: A quick summary of Race -->
 
 # Header
 
