@@ -45,3 +45,10 @@ Each arrogance point the character negatively impacts any of their characteristi
 ## Prestige
 Prestige is increased by modifiers, obtained when the character takes down threats or pairs with other characters of high prestige.
 Gives bonuses to social interactions.
+# Creation
+They all start at 1 and the player can freely dispatch up to 10 points in any of them, in the way they like.
+For any point spent in any of those characteristics (except arrogance) above 5, Arrogance increases by 1.
+
+::: info
+See [CHARACTER CREATION](kingdoms-game/character/creation)
+:::
