@@ -6,10 +6,11 @@ Travelers and rulers are both different types of Character. Therefore, they shar
 ## Definition
 A character is defined by:
 * Their type (Ruler or Traveler)
+* A set of [characteristics](1-kingdoms-game/1-1-character/1-1-1-characteristics) : Numeric values that define the main aspects of the character. 
 * [A name](1-kingdoms-game/1-1-character/1-1-2-name)
-* [A race](1-kingdoms-game/1-1-race)
-* [Traits](1-kingdoms-game/1-1-character/1-1-3-traits)
-* Other details like age, health, and time since crowned
+* [A race](1-kingdoms-game/1-1-race) : In case of a ruler, if it is different from the race they rule, negative effects occur. 
+* [Traits](1-kingdoms-game/1-1-character/1-1-3-traits) : A few traits taken from a predefined list – some can be acquired at birth, other throughout the life of the character or during special events
+* Other details like age, health
 # Age
 The ruler ages with time. Few realms have a ruler less than 18 or 20 years old, as it takes time to build shoulders solid enough to carry such responsibility.
 As the age increases, the health decreases.
