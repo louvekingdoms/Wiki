@@ -1,5 +1,5 @@
-<!-- TITLE: 1 1 2 Name -->
-<!-- SUBTITLE: A quick summary of 1 1 2 Name -->
+<!-- TITLE: Name -->
+<!-- SUBTITLE: A quick summary of Name -->
 
 # Description
 A name is made of the following components:
