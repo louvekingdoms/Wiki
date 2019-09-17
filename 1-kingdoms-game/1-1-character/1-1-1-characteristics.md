@@ -11,7 +11,7 @@ All characters in the game have characteristics. Depending on the kind and type,
 | Diplomacy     | Helps relation with surrounding realms  | 
 | Administration     | Helps economy and cultural management    | 
 | Charisma     | Useful to befriend travelers and keep popularity  | 
-| Luck     | A random chance that things go better than they should. Make very arrogant.  | 
+| Karma     | A random chance that things go better than they should. Make very arrogant.  | 
 | Wisdom     | A costy characteristic that counteracts Arrogance.   | 
 | Arrogance     |   A non-modifable that cannot be increased manually.   |  
 | Prestige     |   A non-modifable characteristic that gives bonuses to social interactions.   | 
@@ -20,13 +20,17 @@ All characters in the game have characteristics. Depending on the kind and type,
 Unless specified otherwise, all characteristics are represented by an **integer value ranging from 1 to 10 [inclusive]**.
 A lower characteristic represents a weak point, while a higher characteristic represents a higher skill in that domain.
 ## Command
+Command helps tip the balance in favour of the ruler’s army in battles. 
 ## Martial
 ## Diplomacy
 ## Administration
 ## Charisma
-## Luck
+## Karma
+Gives to the ruler a little chance to succeed at literally anything
 ## Wisdom
+Each point of Wisdom decreases arrogance by 1. Wisdom increases naturally with age.
 ## Arrogance
+Each point of arrogance decreases every skill by 0.5 in all system calculations.
 ### Range
 Arrogance ranges between **0 to 10 [inclusive]**.
 Each arrogance point the character negatively impacts any of their characteristic tests by half a point. 
