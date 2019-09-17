@@ -1,5 +1,5 @@
-<!-- TITLE: 1.1.1 Characteristics -->
-<!-- SUBTITLE: A quick summary of 1.1.1 Characteristics -->
+<!-- TITLE: Characteristics -->
+<!-- SUBTITLE: A quick summary of Characteristics -->
 
 # Description
 All characters in the game have characteristics. Depending on the kind and type, the number of those characteristics and their behavior may vary.
