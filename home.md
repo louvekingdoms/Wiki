@@ -8,7 +8,7 @@
 
 
 
-# [KINGDOMS HOME PAGE](1-kingdoms-game)
+[KINGDOMS HOME PAGE](1-kingdoms-game)
 
 
 | Column 1 | Column 2 | Column 3 |
