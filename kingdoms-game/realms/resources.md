@@ -8,7 +8,7 @@ A resource can be of three types:
 # Definitions
 
 | Characteristic | Technical | Type | Range | Info
-| -------- | -------- | -------- |-------- |
+| --------               | --------              | -------- |-------- |-------- |
 | **Population**     | `population` | COMPUTED | 0 <> INF | Has a positive effect on the outcome of battles   | 
 | **Goods**     | `gold` | CUMULATIVE | 0 <> INF |  Useful in duels or to resist an assassination  | 
 | **Army**      | `army` | CUMULATIVE | 0 <> INF | Helps relation with surrounding realms  | 
