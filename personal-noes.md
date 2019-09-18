@@ -15,9 +15,7 @@ the foreigner
 rush hour
 rumble in the bronx
 memories of murder
-Silence of the lambs
 Snowpiercer
-dragon tatoo
 Grease
 le chant du loup
 John wick 3
@@ -31,7 +29,5 @@ vaiana
 kirikou
 toy story 4
 the dark knight
-murder on the orient express
 The Producers
 Grave
-sherlock holmes 2
