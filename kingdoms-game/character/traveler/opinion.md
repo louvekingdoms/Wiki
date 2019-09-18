@@ -9,7 +9,7 @@ The traveller has a set of “opinions” which describe what they like or not, 
 | **Traits**       |||
 | **Rigorous**     | **Flexible** | Ruler’s Administration                               |
 | **Competitive**    |      | Ruler’s Personal combat skill, Ruler’s Health                    |
-| **Opportunist**    | Loyalist | If the ruler is illegitimate                            |
+| **Opportunist**    | **Loyalist** | If the ruler is illegitimate                            |
 | **Impressionable**  |      | Ruler’s Charisma                                  |
 | **Wise**       | **Fool**   | Ruler’s Wisdom                                   |
 | **Superstitious**   |      | Ruler’s Karma                                    |
