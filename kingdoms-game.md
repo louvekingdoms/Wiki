@@ -1,5 +1,5 @@
-<!-- TITLE: Kingdoms Game -->
-<!-- SUBTITLE: A quick summary of Kingdoms -->
+<!-- TITLE: Realms -->
+<!-- SUBTITLE: Realms Of Carnage -->
 
 # Genre
 Strategy / Multiplayer / Social
