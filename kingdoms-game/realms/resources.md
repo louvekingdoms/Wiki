@@ -38,6 +38,6 @@ Percentage of the population that is a soldier
 How widely and far is the kingdom known
 Travelers will know the kingdom exists from further if the kingdom has a great reputation
 ## Threat
-Threat is calculated on the %age of map control the kingdom has
+Threat is calculated on the %age of map control the kingdom has. It also temporarily increases after each successful battle.
 High threat will make other kingdoms more likely to attack this kingdom
 
