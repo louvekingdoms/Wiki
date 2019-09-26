@@ -4,7 +4,7 @@
 # Genre
 Strategy / Multiplayer / Social
 # Pitch
-Kingdoms is a multiplayer social-based strategy game in which each player rules over a province-sized kingdom, all in the same region. The goal is to gain control over the region itself.
+RoC is a multiplayer social-based strategy game in which each player rules over a province-sized kingdom, all in the same region. The goal is to gain control over the region itself.
 
 A ruler alone can only do so much, but powerful characters and mystic beasts inhabit or are travelling through the region - learn to know them, befriend some, and they will turn into powerful allies. 
 
