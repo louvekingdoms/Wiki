@@ -8,3 +8,5 @@ In addition to the normal character definition, travelers have a [Type](/kingdom
 They also have [opinions](/kingdoms-game/character/traveler/opinion).
 ## Age
 The traveller ages with time, and can disappear or change if they become too old. Their opinions could change too, as well as their loyalty and allegiance.
+# Map
+## Movement
