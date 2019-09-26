@@ -24,5 +24,5 @@ The game is played with only a cursor (mouse), and every action is given via but
 * **EXPLOIT**: Investing, building and making regions evolve is crucial to solidify acquired power and take advantage while stuck in a status quo.
 * **EXTERMINATE**: Taking terrain is done by eliminating other rulers, kingdoms, and destabilizing other kingdoms is done by charming or eliminating travelers.
 ## Victory / Defeat conditions
-Any ruler wins by making a successful claim on the throne of the empire.
+Any ruler wins by making a successful claim on the throne of Carnage, the name of the former unified empire.
 When a ruler's kingdom is annihilated, the ruling player is out of the game.
