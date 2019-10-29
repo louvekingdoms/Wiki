@@ -6,10 +6,10 @@ Travelers and rulers are both different types of Character. Therefore, they shar
 ## Definition
 A character is defined by:
 * Their type (Ruler or Traveler)
-* A set of [characteristics](kingdoms-game/character/characteristics) : Numeric values that define the main aspects of the character. 
-* [A name](kingdoms-game/character/name)
-* [A race](kingdoms-game/race) : In case of a ruler, if it is different from the race they rule, negative effects occur. 
-* [Traits](kingdoms-game/character/traits) : A few traits taken from a predefined list – some can be acquired at birth, other throughout the life of the character or during special events
+* A set of [characteristics](/kingdoms-game/character/characteristics) : Numeric values that define the main aspects of the character. 
+* [A name](/kingdoms-game/character/name)
+* [A race](/kingdoms-game/race) : In case of a ruler, if it is different from the race they rule, negative effects occur. 
+* [Traits](/kingdoms-game/character/traits) : A few traits taken from a predefined list – some can be acquired at birth, other throughout the life of the character or during special events
 * Other details like age, health
 
 ## On the map
