@@ -17,7 +17,7 @@ Types de régions
 
 ```
 
-
+![C 226 Fa 22 C 35 Aff 6 C 9 A 6 E 7 D 79827 F 9 Bec](/uploads/c-226-fa-22-c-35-aff-6-c-9-a-6-e-7-d-79827-f-9-bec.png "C 226 Fa 22 C 35 Aff 6 C 9 A 6 E 7 D 79827 F 9 Bec")
 
 
 
