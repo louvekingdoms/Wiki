@@ -17,6 +17,6 @@ If the message is "The cat is crossing the road"
 | -------- | -------- | 
 | I do not know any language with that alphabet  | ï»¿Ø§Ù"Ø¥Ø¹Ù"Ø§Ù† Ø§Ù"Ø¹Ø |
 | I do not know any language of that root | Skizze pirend poun crossing localoidi |
-| I do not know any language of that form | The cat is crossing street |
+| I do not know any language of that form | The cat crossing street is |
 | I know that exact language! | The cat is crossing the road |
 
