@@ -11,6 +11,8 @@ This number can be affected by Communication (*see Communication*).
 
 This relation value expresses the relation **from** a character **to** another. This means two characters will have to distinct relation values to one another.
 The relation *between them* is sum of both, except negative points count **double** in this addition.
+
+### Example
  || |
 | -------- | -------- |
 | What A thinks of B   | 50 |
