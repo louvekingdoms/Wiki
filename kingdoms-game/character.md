@@ -10,11 +10,14 @@ A character is defined by:
 * [A name](/kingdoms-game/character/name)
 * [A race](/kingdoms-game/race) : In case of a ruler, if it is different from the race they rule, negative effects occur. 
 * [Traits](/kingdoms-game/character/traits) : A few traits taken from a predefined list – some can be acquired at birth, other throughout the life of the character or during special events
+* [Languages](/kingdoms-game/realms/language) : The languages spoken and understood by the traveler
 * Other details like age, health
 
 ## On the map
 Characters are represented on the map. Depending on the region they're positioned in, they can influence battles, be subject to events or interact with other characters.
 See [Traveler movement](/kingdoms-game/character/traveler#map) and [Ruler movement](/kingdoms-game/character/ruler#map)
+# Languages
+The character can know multiple different languages, but will usually know at least one.
 # Age
 The ruler ages with time. Few realms have a ruler less than 18 or 20 years old, as it takes time to build shoulders solid enough to carry such responsibility.
 As the age increases, the health decreases.
