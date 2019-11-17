@@ -51,6 +51,8 @@ When conversing, the character adopts a stance on those subjects, one at a time.
 * If the reaction is negative, the relation loses **5** points
 * If the reaction is neutral, the relation value doesn't change
 
+The stance of the character on a subject or another **stays** through switching conversations, unlesss they have the Manipulative trait. ( See [Traits](/kingdoms-game/character/traits) )
+
 ### Streak
 When conversing multiple subjects one after another with a character, consecutive reactions of the same kind (positive or negative) multiplies their effect. 
 For example, if a character answers positively 3 times in a row, the relation value will increase by 5, then by 10, then by 15, for a total of **30**.
