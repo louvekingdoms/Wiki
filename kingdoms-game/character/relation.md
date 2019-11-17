@@ -64,7 +64,7 @@ If the two characters are not speaking the same [Language](/kingdoms-game/realms
 | Language barrier | Effect | 
 | -------- | -------- | -------- |
 | Different alphabet | The relation value doesn't change no matter what |
-| Different root |  The relation value doesn't change no matter what  |
+| Different root | ^^  |
 | Different form | There is no streaking, and **one out of five** messages will have the wrong opinion expressed on the subject |
 | No language barrier | The relation value changes as intended, and the conversation works fully |
 
