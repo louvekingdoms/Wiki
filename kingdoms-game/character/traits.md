@@ -17,6 +17,7 @@ Some can be acquired at birth, other throughout the life of the character or dur
 | Name | Technical | Description | Effect |
 | -------- | -------- | -------- |-------- | 
 | Illegitimate | `bastard` | *This trait has a chance to be passed upon the futures generation on the ruler’s death. Being illegitimate puts arrogance to 0, but creates other issues.* | _ | 
+| Manipulative | `manipulative` | *The character knows how to appear to each to be liked, and change their opinions on a whim.* | The character's stances are separated for each conversation, and the character keeps the same stances for the same interlocutors.  | 
 ## Traveler only
 # Acquired over time
 ## All characters
