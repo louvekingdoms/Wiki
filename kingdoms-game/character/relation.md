@@ -1,5 +1,6 @@
 <!-- TITLE: Relation -->
 <!-- SUBTITLE: A quick summary of Relation -->
+
 # Description
 Each character has a relation value with each other character, given they ever interacted. This values ranges from -100 to 100 and describe the attitude of the traveller towards the ruler.
 This number can be affected by Communication (*see Communication*). 
@@ -48,7 +49,7 @@ A conversation is a typical discussion between two characters. Conversing is don
 | Nature     | `nature`     | Communion with nature, animals, beasts |
 
 ### Stance
-When conversing, the character adopts a stance on those subjects, one at a time. The other character then answers positively, negatively or neutrally on the subject depending on their own opinions.
+When conversing, the character adopts a stance on those subjects, one at a time. The other character then answers positively, negatively or neutrally on the subject depending on their own stances.
 * If the reaction is positive, the relation gains **5** points
 * If the reaction is negative, the relation loses **5** points
 * If the reaction is neutral, the relation value doesn't change
@@ -58,24 +59,49 @@ The stance of the character on a subject or another **stays** through switching 
 ### Streak
 When conversing multiple subjects one after another with a character, consecutive reactions of the same kind (positive or negative) multiplies their effect. 
 For example, if a character answers positively 3 times in a row, the relation value will increase by 5, then by 10, then by 15, for a total of **30**.
-<!--
-
-
-
- ADD ANTI STREAK SYSTEM FOR RELATION 
- -->
 
 ### Language barrier
 If the two characters are not speaking the same [Language](/kingdoms-game/realms/language), the opinion expressed will be altered.
 
 | Language barrier | Effect | 
-| -------- | -------- | -------- |
+| -------- | -------- |
 | Different alphabet | The relation value doesn't change no matter what |
 | Different root | The relation value doesn't change no matter what |
 | Different form | There is no streaking, and **one out of five** messages will have the wrong opinion expressed on the subject |
 | No language barrier | The relation value changes as intended, and the conversation works fully |
 
-
 ## Proposition
+A character can offer another character a gift, or the opportunity to trigger a special event (like a mariage or so). This is how a traveler can suggest on their own to swear allegiance to a ruler they appreciate.
+
+### Language barrier
+If the two characters are not speaking the same [Language](/kingdoms-game/realms/language), propositions and requests will be altered.
+| Language barrier | Effect | 
+| -------- | -------- |
+| Different alphabet | The target character does not understand the proposition/request |
+| Different root | The target character does not understand the proposition/request  |
+| Different form | The target character has a 50% chance to understand the correct proposition/request, 25% chance not to understand anything, 25% chance to understand a random other proposition/request instead.  |
+| No language barrier | The target character gets the correct proposition/request |
+
+### Character propositions
+* **Gift of goods** : The character offers goods to another character, in a direct amount. See [Resources](/kingdoms-game/realms/resources)
+* **Gift of a treasure**  : The character offers a [Treasure](/kingdoms-game/realms/treasure) to another character.
+* **Marriage** : The character offers to marry another character. This option is only possible between a traveller and a ruler, or two travellers. See [Marriage](/kingdoms-game/character/relation/marriage).
+
+### Ruler propositions
+* **Host** : The ruler can offer a traveler to host them. This will only work if the traveler is looking for a place to stay and has good relations with the ruler.
+
+### Traveler propositions
+* **Swear allegiance** : The traveler can offer their allegiance to a ruler if they have **100** relation points with them. 
 
 ## Request
+A character can request something from another character, like a service, to swear allegiance, or just an opinion.
+
+### Character requests
+* **Opinion about...** : The target character can tell the character what is their current [relation value](/kingdoms-game/character/relation#description) with another character, would it be another traveler, ruler, or other kingdom.
+
+### Ruler requests
+* **Request to swear allegiance** : The traveler will accept to offer their allegiance to the ruler if they have **100** relation points with them.
+* **Service...** : Depending on the traveler type, the ruler can request a service from the traveler in exchange (or not) for a price.
+# Translation
+Messages from a foreign language can be **interpreted** to be translated to the player's ruler's native language. This has a higher cost in **goods** (see [Resources](/kingdoms-game/realms/resources) ) depending on the stretch between the two languages.
+# Delay
