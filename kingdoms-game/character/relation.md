@@ -1,6 +1,5 @@
 <!-- TITLE: Relation -->
 <!-- SUBTITLE: A quick summary of Relation -->
-
 # Description
 Each character has a relation value with each other character, given they ever interacted. This values ranges from -100 to 100 and describe the attitude of the traveller towards the ruler.
 This number can be affected by Communication (*see Communication*). 
@@ -59,6 +58,12 @@ The stance of the character on a subject or another **stays** through switching 
 ### Streak
 When conversing multiple subjects one after another with a character, consecutive reactions of the same kind (positive or negative) multiplies their effect. 
 For example, if a character answers positively 3 times in a row, the relation value will increase by 5, then by 10, then by 15, for a total of **30**.
+<!--
+
+
+
+ ADD ANTI STREAK SYSTEM FOR RELATION 
+ -->
 
 ### Language barrier
 If the two characters are not speaking the same [Language](/kingdoms-game/realms/language), the opinion expressed will be altered.
