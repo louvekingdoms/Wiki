@@ -6,7 +6,7 @@ The traveller has a set of “opinions” which describe what they like or not, 
 
 | Positive         | Negative     | Relation base value influenced by                          |
 |--------------------|------------|--------------------------------------------------------------------------------------|
-| **Traits**       |||
+| **Traits**       || |
 | **Rigorous**     | **Flexible** | Ruler’s Administration                               |
 | **Competitive**    |      | Ruler’s Personal combat skill, Ruler’s Health                    |
 | **Opportunist**    | **Loyalist** | If the ruler is illegitimate                            |
