@@ -19,6 +19,9 @@ Some can be acquired at birth, other throughout the life of the character or dur
 | Illegitimate | `bastard` | *This trait has a chance to be passed upon the futures generation on the ruler’s death. Being illegitimate puts arrogance to 0, but creates other issues.* | _ | 
 | Manipulative | `manipulative` | *The character knows how to appear to each to be liked, and change their opinions on a whim.* | The character's stances are separated for each conversation, and the character keeps the same stances for the same interlocutors.  | 
 ## Traveler only
+| Name | Technical | Description | Effect |
+| -------- | -------- | -------- |-------- | 
+| Idealistic | `idealistic` | *This character fights for ideals, not money.* | The traveler will refuse to execute any service for the ruler until either their relation value is over **75**, or until they pledged allegiance to this ruler. | 
 # Acquired over time
 ## All characters
 ## Ruler only
