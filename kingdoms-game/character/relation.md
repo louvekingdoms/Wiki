@@ -101,7 +101,7 @@ A character can request something from another character, like a service, to swe
 
 ### Ruler requests
 * **Request to swear allegiance** : The traveler will accept to offer their allegiance to the ruler if they have **100** relation points with them.
-* **Service...** : Depending on the traveler type, the ruler can request a service from the traveler in exchange (or not) for a price.
+* **Service...** : Depending on the traveler type, the ruler can request a service from the traveler in exchange (or not) for a price. See [Type](/kingdoms-game/character/traveler/type) for more details on the services proposed by each traveler type.
 # Translation
 Messages from a foreign language can be **interpreted** to be translated to the player's ruler's native language. This has a higher cost in **goods** (see [Resources](/kingdoms-game/realms/resources) ) depending on the stretch between the two languages.
 # Delay
