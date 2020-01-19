@@ -18,4 +18,4 @@ The natural wealth of the region. A high wealth combined with a good development
 ## Development
 Technological development of the region's infrastructures. It's the percentage of wealth that can be exploited from this region.
 ## Defense
-See [Defense](/create/kingdoms-game/map/region/defense).
+See [Defense](/kingdoms-game/map/region/defense).
