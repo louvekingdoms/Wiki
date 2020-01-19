@@ -18,11 +18,4 @@ The natural wealth of the region. A high wealth combined with a good development
 ## Development
 Technological development of the region's infrastructures. It's the percentage of wealth that can be exploited from this region.
 ## Defense
-The defense is computed from a few attributes:
-
-| Value | Description | 
-| -------- | -------- | 
-| Topographical defense value   | The natural practibility of the terrain |
-|**Additional values**||
-| Travelers on the region  | Travelers will increase the defense of the region by their Martial characteristic if they're loyal to the controlling kingdom. The controlling kingdom is not affected by that defense increment. |
-| Stationed army  | The defense is increased by the population * kingdom's militarization |
+See [Defense](/create/kingdoms-game/map/region/defense).
