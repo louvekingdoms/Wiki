@@ -54,14 +54,14 @@ When conversing, the character adopts a stance on those subjects, one at a time.
 * If the reaction is negative, the relation loses **5** points
 * If the reaction is neutral, the relation value doesn't change
 
-The stance of the character on a subject or another **stays** through switching conversations, unlesss they have the Manipulative trait. ( See [Traits](/kingdoms-game/character/traits) )
+The stance of the character on a subject or another **stays** through switching conversations, unlesss they have the Manipulative trait. ( See [Traits](/kingdoms-game/character/traits.md) )
 
 ### Streak
 When conversing multiple subjects one after another with a character, consecutive reactions of the same kind (positive or negative) multiplies their effect. 
 For example, if a character answers positively 3 times in a row, the relation value will increase by 5, then by 10, then by 15, for a total of **30**.
 
 ### Language barrier
-If the two characters are not speaking the same [Language](/kingdoms-game/realms/language), the opinion expressed will be altered.
+If the two characters are not speaking the same [Language](/kingdoms-game/realms/language.md), the opinion expressed will be altered.
 
 | Language barrier | Effect | 
 | -------- | -------- |
@@ -83,9 +83,9 @@ If the two characters are not speaking the same [Language](/kingdoms-game/realms
 | No language barrier | The target character gets the correct proposition/request |
 
 ### Character propositions
-* **Gift of goods** : The character offers goods to another character, in a direct amount. See [Resources](/kingdoms-game/realms/resources)
-* **Gift of a treasure**  : The character offers a [Treasure](/kingdoms-game/realms/treasure) to another character.
-* **Marriage** : The character offers to marry another character. This option is only possible between a traveller and a ruler, or two travellers. See [Marriage](/kingdoms-game/character/relation/marriage).
+* **Gift of goods** : The character offers goods to another character, in a direct amount. See [Resources](/kingdoms-game/realms/resources.md)
+* **Gift of a treasure**  : The character offers a [Treasure](/kingdoms-game/realms/treasure.md) to another character.
+* **Marriage** : The character offers to marry another character. This option is only possible between a traveller and a ruler, or two travellers. See [Marriage](/kingdoms-game/character/relation/marriage.md).
 
 ### Ruler propositions
 * **Host** : The ruler can offer a traveler to host them. This will only work if the traveler is looking for a place to stay and has good relations with the ruler.
@@ -97,11 +97,11 @@ If the two characters are not speaking the same [Language](/kingdoms-game/realms
 A character can request something from another character, like a service, to swear allegiance, or just an opinion.
 
 ### Character requests
-* **Opinion about...** : The target character can tell the character what is their current [relation value](/kingdoms-game/character/relation#description) with another character, would it be another traveler, ruler, or other kingdom.
+* **Opinion about...** : The target character can tell the character what is their current [relation value](/kingdoms-game/character/relation.md#description) with another character, would it be another traveler, ruler, or other kingdom.
 
 ### Ruler requests
 * **Request to swear allegiance** : The traveler will accept to offer their allegiance to the ruler if they have **100** relation points with them.
-* **Service...** : Depending on the traveler type, the ruler can request a service from the traveler in exchange (or not) for a price. See [Type](/kingdoms-game/character/traveler/type) for more details on the services proposed by each traveler type.
+* **Service...** : Depending on the traveler type, the ruler can request a service from the traveler in exchange (or not) for a price. See [Type](/kingdoms-game/character/traveler/type.md) for more details on the services proposed by each traveler type.
 # Translation
-Messages from a foreign language can be **interpreted** to be translated to the player's ruler's native language. This has a higher cost in **goods** (see [Resources](/kingdoms-game/realms/resources) ) depending on the stretch between the two languages.
+Messages from a foreign language can be **interpreted** to be translated to the player's ruler's native language. This has a higher cost in **goods** (see [Resources](/kingdoms-game/realms/resources.md) ) depending on the stretch between the two languages.
 # Delay

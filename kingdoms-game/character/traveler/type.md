@@ -22,7 +22,7 @@
 A legendary warrior is worth hundreds of soldiers in a battle. With him on the kingdom’s side, any battle fought will see its soldier count artificially increased by `+100*Prestige of the traveller`. 
 However, any battle lost with the Legendary warrior on your side will decrease his prestige, and his relation with the ruler. The warrior also has a small chance to perish in combat.
 ### Services
-Legendary warriors have a 50% chance to be **[idealistic](/kingdoms-game/character/traits#traveler-only)**.
+Legendary warriors have a 50% chance to be **[idealistic](/kingdoms-game/character/traits.md#traveler-only)**.
 | Name | Cost | Effect |
 | -------- | -------- | -------- |
 | Defend region | 60 goods | The traveler will stay on the selected region for a month. |

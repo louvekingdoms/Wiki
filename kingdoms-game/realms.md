@@ -10,7 +10,7 @@ A realm without territory ceases to exist. If the ruler vanishes, another ruler 
 A realm can only be controlled by one ruler at a time.
 # Informations
 A realm is made of the following components:
-* [Resources](kingdoms-game/realms/resources)
+* [Resources](kingdoms-game/realms/resources.md)
 * A name and a demonym
 * A main race
 ## Name and demonym
