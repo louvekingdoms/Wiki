@@ -6,16 +6,16 @@ Travelers and rulers are both different types of Character. Therefore, they shar
 ## Definition
 A character is defined by:
 * Their type (Ruler or Traveler)
-* A set of [characteristics](/kingdoms-game/character/characteristics) : Numeric values that define the main aspects of the character. 
-* [A name](/kingdoms-game/character/name)
-* [A race](/kingdoms-game/race) : In case of a ruler, if it is different from the race they rule, negative effects occur. 
-* [Traits](/kingdoms-game/character/traits) : A few traits taken from a predefined list – some can be acquired at birth, other throughout the life of the character or during special events
-* [Languages](/kingdoms-game/realms/language) : The languages spoken and understood by the traveler
+* A set of [characteristics](/kingdoms-game/character/characteristics.md) : Numeric values that define the main aspects of the character. 
+* [A name](/kingdoms-game/character/name.md)
+* [A race](/kingdoms-game/race.md) : In case of a ruler, if it is different from the race they rule, negative effects occur. 
+* [Traits](/kingdoms-game/character/traits.md) : A few traits taken from a predefined list – some can be acquired at birth, other throughout the life of the character or during special events
+* [Languages](/kingdoms-game/realms/language.md) : The languages spoken and understood by the traveler
 * Other details like age, health
 
 ## On the map
 Characters are represented on the map. Depending on the region they're positioned in, they can influence battles, be subject to events or interact with other characters.
-See [Traveler movement](/kingdoms-game/character/traveler#map) and [Ruler movement](/kingdoms-game/character/ruler#map)
+See [Traveler movement](/kingdoms-game/character/traveler.md#map) and [Ruler movement](/kingdoms-game/character/ruler.md#map)
 # Languages
 The character can know multiple different languages, but will usually know at least one.
 # Age

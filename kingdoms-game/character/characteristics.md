@@ -46,5 +46,5 @@ They all start at 1 and the player can freely dispatch up to 10 points in any of
 For any point spent in any of those characteristics (except arrogance) above 5, Arrogance increases by 1.
 
 ::: info
-See [CHARACTER CREATION](kingdoms-game/character/creation)
+See [CHARACTER CREATION](kingdoms-game/character/creation.md)
 :::

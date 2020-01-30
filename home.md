@@ -21,7 +21,7 @@ Types de régions
 
 
 
-[KINGDOMS HOME PAGE](kingdoms-game)
+[KINGDOMS HOME PAGE](kingdoms-game.md)
 
 
 | Column 1 | Column 2 | Column 3 |
@@ -35,7 +35,7 @@ Types de régions
 
 ![Source](/uploads/source.gif "Source"){.pagelogo}
 
-[Link Text](/personal-noes)
+[Link Text](/personal-noes.md)
 
 |   |   |          |   |   |
 |---|---|----------|---|---|
