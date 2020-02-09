@@ -13,11 +13,9 @@ This relation value expresses the relation **from** a character **to** another. 
 The relation *between them* is sum of both, except negative points count **double** in this addition.
 
 ### Example
- || |
-| -------- | -------- |
-| What A thinks of B   | 50 |
- |What B thinks of A |  -20 |
-| Relation between them | **10** |
+* What A thinks of B :  50
+* What B thinks of A :  -20
+* =>  Relation between them : **10** |
 
 ## Relation between a player and an AI
 In the relation between a PC and a NPC, only the NPC has a relation value *towards* the player. The player's relation value towards everyone is considered to be 0;
