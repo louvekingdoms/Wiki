@@ -10,3 +10,4 @@ They also have [opinions](/kingdoms-game/character/traveler/opinion.md).
 The traveller ages with time, and can disappear or change if they become too old. Their opinions could change too, as well as their loyalty and allegiance.
 # Map
 ## Movement
+![250-px-kaiminus-hgss.png](/_contents/250-px-kaiminus-hgss.png)
